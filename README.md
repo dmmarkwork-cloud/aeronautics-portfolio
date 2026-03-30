@@ -1,5 +1,5 @@
 # Aeronautics-Portfolio
-# Mark Lorenz Yamanaka — Aerospace Engineering Portfolio
+# Mark Lorenz Yamanaka — Aeronautical Engineering Portfolio
 
 Licensed Aeronautical Engineer based in Tsukuba, Japan.  
 Focused on aircraft design, CFD simulation, and UAV systems.
