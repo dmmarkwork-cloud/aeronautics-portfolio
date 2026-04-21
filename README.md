@@ -16,8 +16,8 @@ Focused on aircraft design, CFD simulation, and UAV systems.
 
 
 ## Skills
-`SolidWorks` `OpenFOAM` `XFOIL` `MATLAB` `Python` `Excel` `ParaView`
+`SolidWorks` `Calculix + PrePoMax` `Ansys` `CATIA` `OpenFOAM` `XFOIL` `MATLAB` `Excel` `ParaView` 
 
 ## Contact
-- 📧 marklorenzyamanaka@gmail.com
+- 📧 dmmark.work@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mark-lorenz-yamanaka-6161a3210)
