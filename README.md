@@ -11,7 +11,7 @@ Focused on aircraft design, CFD simulation, and UAV systems.
 | [PANO-VISTA UAV CFD](link) | 6m reconnaissance UAV, 5% drag reduction | SolidWorks, OpenFOAM |
 | [MK-10 Aircraft Design](link) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks, Xfoil |
 | [Rotor Blade Element Theory](link) | 71-inch 2-blade rotor, CAD + theory validation | SolidWorks |
-| [Gas Vessel](https://github.com/dmmarkwork-cloud/gas-vessel-fea) | 3mm thin-walled, Al 6061-T6 material, 0.4% mesh convergence | SolidWorks, Calculix via PrePoMax |
+| [Gas Vessel](https://github.com/dmmarkwork-cloud/gas-vessel-fea) | 3mm thin-walled, Al 6061-T6 material, 0.62% mesh convergence | SolidWorks, Calculix via PrePoMax |
 | [ Converging-Diverging Nozzle](link) |  | CATIA, Ansys |
 
 
